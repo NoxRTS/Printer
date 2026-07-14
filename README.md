@@ -5,6 +5,12 @@ A simple Windows desktop application that prints **all PDF documents in a select
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![.NET](https://img.shields.io/badge/.NET-10-512BD4)
 
+## ⬇️ Download
+
+**[Download the latest Printer.exe](https://github.com/NoxRTS/Printer/releases/latest/download/Printer.exe)** — self-contained, no installation required.
+
+See all versions on the [Releases page](https://github.com/NoxRTS/Printer/releases).
+
 ## Features
 
 - 📁 **Browse** for any folder containing PDF files
